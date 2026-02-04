@@ -1,6 +1,10 @@
 # ======= BEST =======
 vless://06d4a2dd-b823-4b6a-843e-c159b6858d91@25.129.199.122:2095?encryption=none&type=ws&host=ip6-free2.shakhle.ir.&packetEncoding=xudp#%D1%8E%D1%82%D1%8E%D0%B1%20%D0%B2%204%D0%BA%20%D0%BD%D0%B0%202%D1%85,%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20%F0%9F%87%AB%F0%9F%87%AE
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.97.71:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&alpn&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&packetEncoding=xudp#%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82%20gemini,%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%87%B3%F0%9F%87%B1
+vless://ddc2716c-8b78-49dc-baa6-495f98f20ba6@95.163.210.176:443?encryption=none&security=reality&sni=api-maps.yandex.ru&alpn&fp=chrome&pbk=iMR5eGZwmy4V0DseMJxZGc-llTJ1nUYpLJYN52HMmyc&sid=8a26b74e56ecbd45&packetEncoding=xudp#%D1%8E%D1%82%D1%8E%D0%B1,%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%F0%9F%87%B7%F0%9F%87%BA
+vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@37.218.247.35:8443?encryption=none&security=reality&sni=sun6-21.userapi.com&alpn&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196&packetEncoding=xudp#twitch,%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%F0%9F%87%B3%F0%9F%87%B1
+
+
 vless://642c8b3122424e2b9c14f252d3f5e49c@79.141.174.148:8443?encryption=none&security=reality&sni=apple.com&alpn&fp=chrome&pbk=CII8qTx-cNDEjvAqdmLhjJKMHP3QFDLtR5bRhzPvels&sid=aabbccdd&type=xhttp&path=/x&mode=auto&packetEncoding=xudp#%D0%B2%D1%80%D0%BE%D0%B4%D0%B5%20%D1%81%D1%82%D0%B0%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9,%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%F0%9F%87%B8%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWRlRmQnFNbUduVGEyVHpTcVdDWFhnc1dBbzZlV05Lcg==@85.192.49.243:1080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080
