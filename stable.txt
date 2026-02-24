@@ -24,3 +24,4 @@ vless://a9ee8b76-6a94-4c25-9705-76d9bd38771e@8.6.112.6:443?encryption=none&secur
 vless://c4359d70-4f58-459b-8bd5-9c310c2f2d6f@8.6.112.6:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/152.67.248.2%3D53300&packetEncoding=xudp
 vless://9751a75b-b27c-4766-9e67-380599588612@8.6.112.6:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/138.2.95.61%3D1111&packetEncoding=xudp
 vless://ca7709bd-7ff1-4edc-9f1d-679d17bcd150@8.6.112.6:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=/45.77.25.6%3D48828&packetEncoding=xudp
+vless://fa335d1c-e6d1-48bb-99a3-f06710a29043@8.6.112.6:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&alpn=irmeliy@.irmeliy@.irmeliy@.irmeliy@.irmeliy@.irmeliy@.irmeliy-&type=ws&host=afrcloud22.mmv.kr&path=/130.185.164.213%3D8443&packetEncoding=xudp#%D1%82%D0%B5%D1%81%D1%82
