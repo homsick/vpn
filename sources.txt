@@ -1,0 +1,88 @@
+https://raw.githubusercontent.com/code3-dev/code3-dev/refs/heads/main/warp-in-vless#Warp-in-VLESS
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/tuic.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ssr.txt
+https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt
+https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.BYPASS🔥
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR#MEGA.STR.BYPASS⚡️
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/CUSTOM#CUSTOM.STR.BYPASS🤟
+https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/BYPASS#PROXY.STR.BYPASS🐺
+https://raw.githubusercontent.com/4nba/vpn-free-russia/refs/heads/master/subscription.txt
+https://raw.githubusercontent.com/Ai123999/3Wend/refs/heads/main/Notorgames_0
+https://raw.githubusercontent.com/Ai123999/1Mond/refs/heads/main/1Mond_Notorgamers
+https://raw.githubusercontent.com/Ai123999/2Tues/refs/heads/main/2Tues_Notorgamers
+https://raw.githubusercontent.com/Ai123999/3Wend/refs/heads/main/3Wend_Notorgamers
+https://raw.githubusercontent.com/Ai123999/Notorgames/refs/heads/main/4Thur_Notorgamers
+https://raw.githubusercontent.com/Ai123999/HiddifySubs-Notorgamers/refs/heads/main/4vless_@Notorgamers.txt
+https://raw.githubusercontent.com/Ai123999/5Frid/refs/heads/main/5Frid_Notorgamers
+https://raw.githubusercontent.com/Ai123999/6Satu/refs/heads/main/6Satu_Notorgamers
+https://raw.githubusercontent.com/Ai123999/7Sand/refs/heads/main/7Sand_Notorgamers
+https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys
+https://raw.githubusercontent.com/Ai123999/WhiteKeys/refs/heads/main/WhiteKeys
+https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs
+https://raw.githubusercontent.com/officialdakari/psychic-octo-tribble/refs/heads/main/subwl.txt
+https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs
+https://github.com/kismetpro/NodeSuber/raw/refs/heads/main/out/All_Configs_Sub.txt
+https://raw.githubusercontent.com/avbak/sturdy-octo-tribble1/refs/heads/main/VLESS-RU-MOBILE-CIDR-WHITELIST-filtered.txt
+https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt
+https://raw.githubusercontent.com/zokz9/config-vpn/refs/heads/main/config.txt#ZoKzVPN
+https://raw.githubusercontent.com/r3zarahimi/tg-v2ray-configs-every2h/main/Config_jo.txt
+https://github.com/KiryaScript/white-lists/raw/refs/heads/main/githubmirror/27.txt
+https://github.com/KiryaScript/white-lists/raw/refs/heads/main/githubmirror/28.txt
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist
+https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube
+https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt
+https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/config.txt
+https://github.com/KiryaScript/white-lists/raw/refs/heads/main/githubmirror/26.txt
+
+
+
+
+LINK_PATH = [
+    "https://raw.githubusercontent.com/code3-dev/code3-dev/refs/heads/main/warp-in-vless#Warp-in-VLESS",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/hy2.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ss.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/trojan.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/tuic.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vmess.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/ssr.txt",
+    "https://raw.githubusercontent.com/hamedp-71/v2go_NEW/main/Splitted-By-Protocol/vless.txt",
+    "https://raw.githubusercontent.com/mahsa114232-dot/My-sub/refs/heads/main/sub.txt",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS👾",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/Vless#VLESS.STR.BYPASS🔥",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR#MEGA.STR.BYPASS⚡️",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/CUSTOM#CUSTOM.STR.BYPASS🤟",
+    "https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/BYPASS#PROXY.STR.BYPASS🐺",
+    "https://raw.githubusercontent.com/4nba/vpn-free-russia/refs/heads/master/subscription.txt",
+    "https://raw.githubusercontent.com/Ai123999/3Wend/refs/heads/main/Notorgames_0",
+    "https://raw.githubusercontent.com/Ai123999/1Mond/refs/heads/main/1Mond_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/2Tues/refs/heads/main/2Tues_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/3Wend/refs/heads/main/3Wend_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/Notorgames/refs/heads/main/4Thur_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/HiddifySubs-Notorgamers/refs/heads/main/4vless_@Notorgamers.txt",
+    "https://raw.githubusercontent.com/Ai123999/5Frid/refs/heads/main/5Frid_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/6Satu/refs/heads/main/6Satu_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/7Sand/refs/heads/main/7Sand_Notorgamers",
+    "https://raw.githubusercontent.com/Ai123999/WhiteeListSub/refs/heads/main/whitelistkeys",
+    "https://raw.githubusercontent.com/Ai123999/WhiteKeys/refs/heads/main/WhiteKeys",
+    "https://raw.githubusercontent.com/RKPchannel/RKP_bypass_configs/refs/heads/main/configs",
+    "https://raw.githubusercontent.com/officialdakari/psychic-octo-tribble/refs/heads/main/subwl.txt",
+    "https://raw.githubusercontent.com/FalerChannel/FalerChannel/refs/heads/main/configs",
+    "https://github.com/kismetpro/NodeSuber/raw/refs/heads/main/out/All_Configs_Sub.txt",
+    "https://raw.githubusercontent.com/avbak/sturdy-octo-tribble1/refs/heads/main/VLESS-RU-MOBILE-CIDR-WHITELIST-filtered.txt",
+    "https://raw.githubusercontent.com/LimeHi/LimeVPN/refs/heads/main/LimeVPN.txt",
+    "https://raw.githubusercontent.com/zokz9/config-vpn/refs/heads/main/config.txt#ZoKzVPN",
+    "https://raw.githubusercontent.com/r3zarahimi/tg-v2ray-configs-every2h/main/Config_jo.txt",
+    "https://github.com/KiryaScript/white-lists/raw/refs/heads/main/githubmirror/27.txt",
+    "https://github.com/KiryaScript/white-lists/raw/refs/heads/main/githubmirror/28.txt",
+    "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/whitelist",
+    "https://raw.githubusercontent.com/EtoNeYaProject/etoneyaproject.github.io/refs/heads/main/youtube",
+    "https://github.com/AvenCores/goida-vpn-configs/raw/refs/heads/main/githubmirror/26.txt",
+    "https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/config.txt",
+    "https://github.com/KiryaScript/white-lists/raw/refs/heads/main/githubmirror/26.txt",
+]
