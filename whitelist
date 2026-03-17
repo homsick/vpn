@@ -2,8 +2,8 @@
 #profile-title: HomsickVPN [Белые списки] 🐁
 #profile-update-interval: 4
 #announce:
-#fallback-url: https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/white
-#new-url: https://github.com/homsick/vpn/raw/refs/heads/main/white
+#fallback-url: https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist
+#new-url: https://github.com/homsick/vpn/raw/refs/heads/main/whitelist
 #hide-settings: 1
 #ping-result: icon
 #tun-enable: 1
