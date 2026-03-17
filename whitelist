@@ -1,7 +1,7 @@
 #providerid: XUiK6XaR
-#profile-title: HomsickVPN [Белые списки] 🐁
+#profile-title: HomsickVPN 🐁
 #profile-update-interval: 4
-#announce:
+#announce: БЕЛЫЕ СПИСКИ
 #fallback-url: https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist
 #new-url: https://github.com/homsick/vpn/raw/refs/heads/main/whitelist
 #hide-settings: 1
