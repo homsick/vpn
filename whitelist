@@ -1,7 +1,7 @@
 # providerid: XUiK6XaR
 # profile-title: HomsickVPN WHITE 🐁
 # profile-update-interval: 4
-# announce: 0J7QkdCd0J7QktCb0JXQndCeIDQg0JzQkNCvIPCfkKE=
+# announce: base64: 0J7QkdCd0J7QktCb0JXQndCeIDQg0JzQkNCvIPCfkKE=
 # fallback-url: https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist
 # new-url: https://github.com/homsick/vpn/raw/refs/heads/main/whitelist
 # hide-settings: 1
