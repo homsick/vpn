@@ -4,7 +4,7 @@ name: Update Files from URL Every 4 hours
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */2 * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,7 +18,7 @@ jobs:
     - name: Update sub
       run: |
         TARGET_FILE="sub"
-        URL="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+        URL="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt"
         START_LINE=7
         
         head -n 10 "$TARGET_FILE" > temp1.txt
@@ -29,15 +29,23 @@ jobs:
 
     - name: Update whitelist
       run: |
-        TARGET_FILE="whitelist"
-        URL="https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt"
-        START_LINE=10
-        
-        head -n 10 "$TARGET_FILE" > temp2.txt
-        
-        curl -s "$URL" | sed -n "${START_LINE},\$p" >> temp2.txt
-
-        mv temp2.txt "$TARGET_FILE"
+          TARGET_FILE="whitelist"
+          HEAD_LINES=10
+          SKIP_LINES=7
+      
+          head -n "$HEAD_LINES" "$TARGET_FILE" > temp2.txt
+      
+          URLS="
+          https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt
+          https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+          https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt
+          "
+      
+          for URL in $URLS; do
+              curl -s "$URL" | sed -n "${SKIP_LINES},\$p" >> temp2.txt
+          done
+      
+          mv temp2.txt "$TARGET_FILE"
 
     - name: Commit and Push changes
       run: |
