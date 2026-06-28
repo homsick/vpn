@@ -23,7 +23,8 @@ jobs:
         
         head -n 10 "$TARGET_FILE" > temp1.txt
         
-        curl -s "$URL" | sed -n "${START_LINE},\$p" >> temp1.txt
+        curl -s "$URL" | sed -n "${START_LINE},\$p" | grep -v -i "Zurich" >> temp1.txt
+
         
         mv temp1.txt "$TARGET_FILE"
 
