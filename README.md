@@ -3,19 +3,18 @@ blacklist.txt - черные списки
 whitelist.txt - белые списки  
 source.txt - источники  
 
-🐈‍⬛ Черные списки - хороши в обычные дни, но не работают, когда интернет глушат
+🐈‍⬛ Черные списки - хороши в обычные дни, но не работают, когда интернет глушат  
 https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt
 
-🐁 Белые списки - работают когда интернет глушат (в отличие от чёрных)
+🐁 Белые списки - работают когда интернет глушат (в отличие от чёрных)  
 https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
----
 # Инструкция для тех, у кого все сломалось
 
 ## 📱 Если у вас телефон
 
 ### Сначала скопируй первую ссылку (чёрную)
 1. Нажать на **первую ссылку** и удерживать палец  
-   👉 `https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt`
+https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt
 2. В открывшемся меню нажать **"Скопировать ссылку"**
 
 ### Теперь удали всё старое (это делается один раз)
@@ -32,19 +31,19 @@ https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 
 ### Добавление второй ссылки (белой)
 10. Нажать на **вторую ссылку** и удерживать палец  
-    👉 `https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt`
+https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 11. В открывшемся меню нажать **"Скопировать ссылку"**
 12. Нажать на **плюс** (или три точки сверху справа)
 13. В открывшемся меню нажать **"Вставить из буфера обмена"**
 14. Должно появится новое подключение с именем **HomsickVPN 🐁**
 15. Готово!
----
+
 ## 💻 Если у вас компьютер
 
 ### Сначала скопируй первую ссылку (чёрную)
 1. Навести курсор на **первую ссылку**, нажать **правую кнопку мыши (ПКМ)**
-   👉 `https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt`
-2. В открывшемся меню нажать левой кнопкой мыши (ЛКМ) на **"Копировать ссылку"**
+https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt
+3. В открывшемся меню нажать левой кнопкой мыши (ЛКМ) на **"Копировать ссылку"**
 
 ### Теперь удали всё старое (это делается один раз)
 3. Открыть приложение **Happ**
@@ -57,13 +56,12 @@ https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 8. Должно появиться новое подключение с именем **HomsickVPN 🐈‍⬛**
 
 ### Добавление второй ссылки (белой)
-10. Навести курсор на **вторую ссылку**, нажать **ПКМ**  
-    👉 `https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt`
-11. В открывшемся меню нажать **ЛКМ** на **"Копировать ссылку"**
-12. Нажать **ЛКМ** на **"Из буфера"** (она снова в самом низу)
-13. Должно появиться новое подключение с именем **HomsickVPN 🐁**
-14. Готово!
----
+10. Навести курсор на **вторую ссылку**, нажать **ПКМ**
+https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
+12. В открывшемся меню нажать **ЛКМ** на **"Копировать ссылку"**
+13. Нажать **ЛКМ** на **"Из буфера"** (она снова в самом низу)
+14. Должно появиться новое подключение с именем **HomsickVPN 🐁**
+15. Готово!
 
 # Технические ссылки
 https://happ-proxy.com/ - личный кабинет Happ
