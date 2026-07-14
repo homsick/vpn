@@ -1,0 +1,52 @@
+name: Update Files Every 2 Hours
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Update blacklist.txt
+      run: |
+        {
+          grep '^#' blacklist.txt
+          curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt" \
+          | grep -vE '^(#|$)' \
+          | grep -vi 'Zurich'
+        } > tmp && mv tmp blacklist.txt
+
+    - name: Update whitelist.txt
+      run: |
+        {
+          grep '^#' whitelist.txt
+      
+          for url in \
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt" \
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt" \
+            "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt"
+          do
+            curl -fsSL "$url" | grep -vE '^(#|$)'
+          done
+        } > tmp && mv tmp whitelist.txt
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        git add blacklist.txt whitelist.txt
+
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+
+        git commit -m "chore: update blacklist and whitelist"
+        git push
