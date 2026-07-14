@@ -1,6 +1,6 @@
 # Основные понятия
 🐈‍⬛ Черные списки - хороши в обычные дни, но не работают, когда интернет глушат  
-https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt
+https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt  
 🐁 Белые списки - работают когда интернет глушат (в отличие от чёрных)  
 https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 # Инструкция для тех, у кого все сломалось
