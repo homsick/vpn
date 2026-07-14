@@ -2,3 +2,5 @@
 #profile-title: HomsickVPN BLACK 🐈‍⬛
 #new-url: https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt
 #profile-update-interval: 1
+
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@46.8.208.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zJPh6KpkMn0rSpoIRbmypTckWen2x-r4ZN-4SCn0MkM&security=reality&sni=smartcaptcha.yandexcloud.net&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B%2ACIDR%5D
