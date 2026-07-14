@@ -1,6 +1,6 @@
-# providerid: XUiK6XaR
-# profile-title: HomsickVPN WHITE 🐁
-# ping-result: time
+#providerid: XUiK6XaR
+#profile-title: HomsickVPN WHITE 🐁
+#ping-result: time
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@46.8.208.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zJPh6KpkMn0rSpoIRbmypTckWen2x-r4ZN-4SCn0MkM&security=reality&sni=smartcaptcha.yandexcloud.net&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B%2ACIDR%5D
 vless://ecad47b0-249e-000a-adff-e3c8f02b1897@194.55.239.142:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
 vless://ab51054f-de76-4a0f-9f3a-b44c8df86a6c@138.16.169.188:8443?flow=xtls-rprx-vision&fp=firefox&pbk=Jvo3mtGzgJPAntN3FgljPoUvZZgLzOh9wPlTrzI3AiY&security=reality&sni=api-maps.yandex.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
