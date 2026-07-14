@@ -1,7 +1,7 @@
 #providerid: XUiK6XaR
 #profile-title: HomsickVPN 🐁
 #announce: base64:8J+QgSDQkdC10LvRi9C1INGB0L/QuNGB0LrQuCAtINGA0LDQsdC+0YLQsNGO0YIg0LrQvtCz0LTQsCDQuNC90YLQtdGA0L3QtdGCINCz0LvRg9GI0LDRgiAo0LIg0L7RgtC70LjRh9C40LUg0L7RgiDRh9GR0YDQvdGL0YUp
-#ping-result: time
+#profile-web-page-url: https://github.com/homsick/vpn
 vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@92.246.138.176:443?type=tcp&security=reality&sni=ads.x5.ru&fp=qq&flow=xtls-rprx-vision&pbk=LuHD-yMeiV5dEDITQx4MYSh8a63AUAcLiKBEgA6szT0&sid=1be518#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@92.246.138.182:443?security=reality&alpn=http%2F1.1&encryption=none&pbk=Q6Ecoq-ZFheEcp1gFcApiPpmefrqodpu70EQP6VHWyw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=e3878319a6057779#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://ecad47b0-249e-000e-adff-e3c8f02b1897@194.55.239.201:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
