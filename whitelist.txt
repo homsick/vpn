@@ -1,8 +1,5 @@
 # providerid: XUiK6XaR
 # profile-title: HomsickVPN WHITE 🐁
-# announce: base64: 
-# fallback-url: https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt&lang=de-de
-# new-url: https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitlist.txt
 # ping-result: time
 vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@46.8.208.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zJPh6KpkMn0rSpoIRbmypTckWen2x-r4ZN-4SCn0MkM&security=reality&sni=smartcaptcha.yandexcloud.net&type=tcp#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%20%5B%2ACIDR%5D
 vless://ecad47b0-249e-000a-adff-e3c8f02b1897@194.55.239.142:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=rutube.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D
