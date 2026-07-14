@@ -1,11 +1,6 @@
-# VPN
-blacklist.txt - черные списки  
-whitelist.txt - белые списки  
-source.txt - источники  
-
+# Основные понятия
 🐈‍⬛ Черные списки - хороши в обычные дни, но не работают, когда интернет глушат  
 https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/blacklist.txt
-
 🐁 Белые списки - работают когда интернет глушат (в отличие от чёрных)  
 https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 # Инструкция для тех, у кого все сломалось
@@ -64,5 +59,5 @@ https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 15. Готово!
 
 # Технические ссылки
-https://happ-proxy.com/ - личный кабинет Happ
+https://happ-proxy.com/ - личный кабинет Happ  
 https://www.happ.su/main/dev-docs/app-management - документация по параметрам Happ
