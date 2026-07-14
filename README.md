@@ -83,6 +83,10 @@ https://raw.githubusercontent.com/homsick/vpn/refs/heads/main/whitelist.txt
 14. Должно появиться новое подключение с именем **HomsickVPN 🐁**
 15. Готово!
 
+# Итоговый результат должен выглядеть так
+<img width="300" alt="IMG_0251" src="https://github.com/user-attachments/assets/d49cb6e5-d808-42ec-abb4-7fcc4580ba8d" />
+<img width="300" alt="IMG_0252" src="https://github.com/user-attachments/assets/7a138ab0-baf4-4b92-bbeb-d6096492da62" />
+
 # Технические ссылки
 https://happ-proxy.com/ - личный кабинет Happ  
 https://www.happ.su/main/dev-docs/app-management - документация по параметрам Happ
