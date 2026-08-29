@@ -17,16 +17,25 @@ jobs:
       run: |
         {
           grep '^#' blacklist.txt
-          curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt" \
-          | grep -vE '^(#|$)'
+          (
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt" | grep -vE '^(#|$)'
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS%2BAll_RUS.txt" | grep -vE '^(#|$)'
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS_WEAK_DPI_RUS.txt" | grep -vE '^(#|$)'
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt" | grep -vE '^(#|$)'
+          ) | sort -u
         } > tmp && mv tmp blacklist.txt
 
     - name: Update whitelist.txt
       run: |
         {
           grep '^#' whitelist.txt
-          curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt" \
-          | grep -vE '^(#|$)'
+          (
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt" | grep -vE '^(#|$)'
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt" | grep -vE '^(#|$)'
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt" | grep -vE '^(#|$)'
+            curl -fsSL "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-SNI-RU-all.txt" | grep -vE '^(#|$)'
+
+          ) | sort -u
         } > tmp && mv tmp whitelist.txt
 
     - name: Commit and Push changes
